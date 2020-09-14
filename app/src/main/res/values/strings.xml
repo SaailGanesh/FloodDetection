@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flood Detection</string>
+    <string name="flood_detector">FLOOD DETECTOR</string>
+    <string name="temperature">Temperature</string>
+</resources>
